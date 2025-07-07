@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Lvl_ArenaShooter.umap",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/F_SimpleQuest.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_Condition.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/AC_QuestSystem.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_QuestSystem.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/DT_TutorialQuests.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_Grab_Weapon.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_Shoot_Targets.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompleteQuest.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompletePreviousQuest.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_SimpleQuest.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Blueprints/FirstPerson/BP_ShooterController.uasset"
+			]
+		}
+	]
+}
