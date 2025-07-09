@@ -7,17 +7,28 @@
 			"files": [
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Lvl_ArenaShooter.umap",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/F_SimpleQuest.uasset",
-				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_Condition.uasset",
-				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/AC_QuestSystem.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_QuestSystem.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/DT_TutorialQuests.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_Grab_Weapon.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_Shoot_Targets.uasset",
-				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompleteQuest.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompletePreviousQuest.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_SimpleQuest.uasset",
-				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Blueprints/FirstPerson/BP_ShooterController.uasset"
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Blueprints/FirstPerson/BP_ShooterController.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/E_QuestStates.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/E_QuestConditionGroupRule.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/QuestScreen/QuestScreen.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/QuestScreen/QuestNameButton.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/UserButton.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/QuestScreen/QuestDescriptionPanel.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Objectives/BP_Objective.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Objectives/BP_Objective_Grab_Weapon.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Objectives/BP_Objective_Shoot_Targets.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/E_QuestConditionGroup.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/QuestScreen/NewWidgetBlueprint.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_Condition.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/AC_QuestSystem.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompleteQuest.uasset"
 			]
 		}
 	]
