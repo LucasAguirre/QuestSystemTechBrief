@@ -39,6 +39,8 @@
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/F_ObjectiveParams.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Blueprints/Pickups/BP_Pickup.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/HUD/BP_QuestComplete_Notify.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/UI/HUD_Shooter.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_Shoot_Targets.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompletePreviousQuest.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/NPCInteraction/NPCInteraction.uasset",
