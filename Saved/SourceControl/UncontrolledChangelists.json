@@ -11,8 +11,6 @@
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/DT_TutorialQuests.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_Grab_Weapon.uasset",
-				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_Shoot_Targets.uasset",
-				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompletePreviousQuest.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_SimpleQuest.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Blueprints/FirstPerson/BP_ShooterController.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/E_QuestStates.uasset",
@@ -34,13 +32,21 @@
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Characters/Mannequins/Materials/Manny/MI_Manny_02_Red.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/NPCInteraction/NPCDialogue.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/NPCInteraction/NPCQuestDialogue.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/F_ConditionParams.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/F_ConditionRequirement.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompleteQuest.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/F_ObjectiveRequirement.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/F_ObjectiveParams.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/Variant_Shooter/Blueprints/Pickups/BP_Pickup.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_Shoot_Targets.uasset",
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompletePreviousQuest.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/NPCInteraction/NPCInteraction.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/NPC/BP_ShooterController1.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/E_QuestConditionGroup.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/UI/QuestScreen/NewWidgetBlueprint.uasset",
 				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/BP_Condition.uasset",
-				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/AC_QuestSystem.uasset",
-				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/Conditions/BP_Condition_CompleteQuest.uasset"
+				"C:/Users/YO_IL/Documents/Unreal Projects/QuestSystemTechBrief/Content/QuestSystem/AC_QuestSystem.uasset"
 			]
 		}
 	]
